@@ -1,0 +1,26 @@
+
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 10;
+	src: url('../fonts/YekanBakh/YekanBakhFaNum-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/YekanBakh/YekanBakhFaNum-Regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: dana-p;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/YekanBakh/YekanBakhFaNum-Regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/YekanBakh/YekanBakhFaNum-Regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+	font-family: dana-3;
+	font-style: normal;
+	font-weight: 700;
+	src: url('../fonts/YekanBakh/YekanBakhFaNum-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/YekanBakh/YekanBakhFaNum-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
