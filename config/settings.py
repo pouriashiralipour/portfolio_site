@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     "debug_toolbar",
     # my apps
     "portfolio",
-    "rastakala",
+    # "rastakala",
 ]
 
 MIDDLEWARE = [
